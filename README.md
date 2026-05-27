@@ -1,6 +1,6 @@
 # Francis Josh Uray — Portfolio
 
-👋 Hi, I'm *Francis Josh Uray*, a 2nd Year BSIT Student based in Davao Region, PH.
+ Hi, I'm *Francis Josh Uray*, a 2nd Year BSIT Student based in Davao Region, PH.
 
 🌐 *Portfolio:* [frncsu.github.io](https://frncsu.github.io)
 📧 *Email:* francisjosjuray@gmail.com
